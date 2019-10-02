@@ -6,7 +6,7 @@ As an additional reward and motivation to complete the Seeking your Roots quest 
 
 This is only the case for the first free samples you get, the other potions you can buy from Sinderion are unchanged. So altogether you can get additional 11 points of luck out of the quest now. The Enhanced Elixirs of Exploration are more valuable than the ordinary elixir, so if you don't want to use them, you can still sell them.
 
-If you think the attribute raise too meager please feel free to make your own modifications. Have fun!
+If you think the attribute raise is too meager or high please feel free to make your own modifications. Have fun!
 
 
 
